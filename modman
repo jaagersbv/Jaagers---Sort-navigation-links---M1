@@ -1,0 +1,3 @@
+step1/app/code/local/Jaagers/Sortnavigationlinks			                        app/code/local/Jaagers/Sortnavigationlinks
+step1/app/design/adminhtml/default/default/layout/sortnavigationlinks.xml			app/design/adminhtml/default/default/layout/sortnavigationlinks.xml
+step2/app/etc/modules/Jaagers_Sortnavigationlinks.xml			                    app/etc/modules/Jaagers_Sortnavigationlinks.xml

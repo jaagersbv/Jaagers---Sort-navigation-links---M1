@@ -1,0 +1,11 @@
+{
+    "name": "jaagers\/sortnavigationlinks",
+    "description": "sort account navigation links",
+    "type": "magento-module",
+    "homepage": "http:\/\/jaagers.com",
+    "time": "2014-08-29",
+    "license": "proprietary",
+    "require": {
+        "magento-hackathon\/magento-composer-installer": "*"
+    }
+}
